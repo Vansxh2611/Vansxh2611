@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/736x/42/ca/16/42ca163f36f52904593bd6ee3a960c34.jpg" alt="Header Image" width="100%" />
 </p>
 
-<h1 align="center">Hey 👋, I'm Vishal Suthar</h1>
+<h1 align="center">Hey 👋, I'm Vansh Patel</h1>
 <h3 align="center">🚀 Full-Stack Developer | Tech Explorer | Creator from 🇮🇳</h3>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 📱 Exploring: **Android, AI integrations, cybersecurity, real-time RAG apps**
 - 🛠️ Tech I love: `React`, `Node.js`, `Vite`, `Tailwind`, `MongoDB`, `Firebase`
 - 💬 Open to tech chats on: `Frontend`, `Backend`, `APIs`, `Security`, `UX`
-- 📫 Reach me: **vishalsuthar2711@gmail.com**
+- 📫 Reach me: **vansh2968@gmail.com**
 - ⚡ Fun Fact: *Code never sleeps – and neither does my creativity*
 
 ---
